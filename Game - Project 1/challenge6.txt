@@ -1,0 +1,9 @@
+1
+1
+6
+8
+You enter the cave and find a dragon sitting on a pile of treasure. Among the treasure you see the bodies of thieves and goblins and you even see some of your own stuff! Suddenly the dragon attacks!
+Do you (A)ttack or use (M)agic?
+The dragon bellows as an arrow strikes its hide.
+The dragon lets out a terrifying roar as you hit it with a fireball.
+You finally slay the dragon.  You recover some of your stuff and are left to wonder who stole it.  Do you go after the (T)hieves or the (G)oblins?

@@ -1,0 +1,9 @@
+1
+1
+10
+10
+You enter the thieves hideout and sneak your way into what is obviously the leader's quarters.  
+Do you (A)ttack or use (M)agic?
+The thief leader gets a cut on his arm and takes a swing at you.
+The thief leader's face gets burned and horribly disfigured.
+Having defeated the thief leader the rest of the thieves disperse and you go home where you live your life happily ever after.

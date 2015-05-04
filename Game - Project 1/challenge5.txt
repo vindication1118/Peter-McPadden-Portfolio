@@ -1,0 +1,10 @@
+1
+1
+6
+8
+Upon arriving at home you find the door broken down and some of the windows broken. A goblin sneaks up from behind you and attacks!
+Do you (A)ttack or use (M)agic?
+The goblin takes a slice juts above the knee and roars.
+You successfully freeze one of the goblin's arms.
+The goblin dies with a gurgling cough.  Since you know the dangers of your hermit's life you can't be sure that the goblin was responsible for the home damage. Do you go (E)ast to the goblin grounds or (W)est to the thieves' hideout? 
+

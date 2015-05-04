@@ -1,0 +1,9 @@
+1
+1
+2
+3
+While hunting in the woods you come across an aggressive bear. It charges toward you furiously.
+Do you (A)ttack or use (M)agic?
+The bear lets out a roar as you fire an arrow at its chest. 
+The bear falls back a bit as you send a massive fireball at it.
+Just as the bear gets close your final attack brings it to the ground.  Will you continue (H)unting or (G)o home?

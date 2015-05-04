@@ -1,0 +1,10 @@
+1
+1
+4
+6
+On you way home you walk past a cave.  There are strange noises coming out of the cave.  As you approach to investigate a horde of bats flies out and attacks you!
+Do you (A)ttack or use (M)agic?
+You swing your hunting blade through the mass of bats, cutting away some of them.
+A ball of fire certainly does the trick. Many of the bats are dead.
+Sensing that you are not to be trifled with, the remaining bats fly off in search of food.  Do you (G)o home or (I)vestigate the odd noises coming from the cave?
+

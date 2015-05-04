@@ -1,0 +1,9 @@
+2
+2
+4
+5
+While hunting you hear screams nearby. Rushing to see what is going on you see a small village being terrorized by a gang of thieves.
+Do you (A)ttack or use (M)agic?
+One of the thieves bellows in pain as he takes an arrow to his upper arm.
+One of the thieves falls dead to the ground as he gets hit with a fireball.
+Seeing how quickly you dispensed with some of their gang, the remaining thieves run away.  Do you (P)ersue or (G)o home?

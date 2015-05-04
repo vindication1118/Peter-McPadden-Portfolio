@@ -1,0 +1,7 @@
+name: OWHMe
+version: 0.1
+main: info.omgwtfhax.IGVindication1118Me.core.OWHMe
+commands:
+    me:
+        description: displays a message under your name
+        usage: /me <message>

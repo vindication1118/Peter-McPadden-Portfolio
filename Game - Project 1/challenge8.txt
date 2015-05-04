@@ -1,0 +1,9 @@
+1
+1
+10
+10
+You find your way to the goblin grounds.  The unorderly place is easy to sneak into and you quickly find the goblin king.
+Do you (A)ttack or use (M)agic?
+The goblin leader curses as you slice across his belly.
+The goblin leader takes a vicious swing at you as he gets hit with a ball of ice, freezing his leg.
+You successfully bring the goblin king down and the rest of the goblins allow you to leave, fearing that you may kill them. You go home and live happily ever after.

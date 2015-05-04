@@ -1,0 +1,9 @@
+1
+1
+5
+10
+You chase the thieves, but alas! It is a well set up trap.  You are now surrounded on all sides.
+Do you (A)ttack or use (M)agic?
+One thief takes an arrow to his chest, and you throw a knife that slices through another's belly.
+A few of the thieves are too near the fireball you threw and burn to ashes.
+After killing the remaining thieves you see a few goblins running through the woods:  Do you (F)ind the thieves' hideout or (C)hase after the goblins? 
